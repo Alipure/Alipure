@@ -76,4 +76,4 @@ Here’s a glimpse of my work, showcasing automation, clean code, and a sprinkle
 
 ---
 
-⭐ **Star my repos if you find them useful!** Let’s make the internet a more automated, efficient place together! 🚀
+⭐ **Star my [repos](https://github.com/Alipure?tab=repositories) if you find them useful!** Let’s make the internet a more automated, efficient place together! 🚀
