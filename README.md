@@ -72,7 +72,7 @@ Here’s a glimpse of my work, showcasing automation, clean code, and a sprinkle
 
 - ☕ I run on coffee and code that works.
 - 🕹️ When I’m not coding, I’m probably surfing the web.
--  📚 Favorite data structure? The Array Lists and Stack Datastructure to store data ✨ 🌙
+-  📚 Favorite data structure? The Array Lists and Stack Data structure to store data ✨ 🌙
 
 ---
 
