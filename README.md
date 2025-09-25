@@ -18,12 +18,12 @@ Hi, I'm Ali Almusawi. I'm a developer who loves crafting efficient, scalable, an
 
 Here’s a glimpse of my work, showcasing automation, clean code, and a sprinkle of creativity:
 
-### 📡 Kick-Chat-Scraper
+### 💬 Kick-Chat-Scraper
 🔍 **Purpose**: A tool for educational purposes to scrape and analyze chat data.  
 💻 **Tech**: JavaScript   
 🔗 [Check it out!](https://github.com/alipure/Kick-Chat-Scraper)
 
-### 🦀 Twitch-Rust-Kingdom-Checker
+### 📺 Twitch-Rust-Kingdom-Checker
 🎮 **Purpose**: A utility to check and manage Twitch-related data with a Rust-inspired twist.  
 💻 **Tech**: JavaScript
 🔗 [Explore here!](https://github.com/alipure/Twitch-Rust-Kingdom-Checker)
@@ -33,7 +33,7 @@ Here’s a glimpse of my work, showcasing automation, clean code, and a sprinkle
 💻 **Tech**: JavaScript
 🔗 [Try it out!](https://github.com/alipure/Instagram-Unbookmarker)
 
-### 😎 Chaturbate-Emoji-Channel-Picker
+### 😈 Chaturbate-Emoji-Channel-Picker
 🎨 **Purpose**: A fun tool to pick and customize emoji-based channels.  
 💻 **Tech**: JavaScript
 🔗 [See more!](https://github.com/alipure/Chaturbate-Emoji-Channel-Picker)
@@ -45,7 +45,7 @@ Here’s a glimpse of my work, showcasing automation, clean code, and a sprinkle
 🔗 [Dive in!](https://github.com/alipure/Dictionary-Java)
 
 ### 🤖 Dank-Memer-Miner
-⛏️ **Purpose**: A fun automation tool for mining Dank Memer resources.  
+⛏️ **Purpose**: A fun automation tool for mining Dank Memer resources.
 💻 **Tech**: Java  
 🔗 [Check it out!](https://github.com/alipure/Dank-Memer-Miner)
 
