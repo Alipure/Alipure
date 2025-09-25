@@ -21,33 +21,33 @@ Here’s a glimpse of my work, showcasing automation, clean code, and a sprinkle
 ### 📡 Kick-Chat-Scraper
 🔍 **Purpose**: A tool for educational purposes to scrape and analyze chat data.  
 💻 **Tech**: JavaScript   
-🔗 [Check it out!](https://github.com/yourusername/Kick-Chat-Scraper)
+🔗 [Check it out!](https://github.com/alipure/Kick-Chat-Scraper)
 
 ### 🦀 Twitch-Rust-Kingdom-Checker
 🎮 **Purpose**: A utility to check and manage Twitch-related data with a Rust-inspired twist.  
 💻 **Tech**: JavaScript
-🔗 [Explore here!](https://github.com/yourusername/Twitch-Rust-Kingdom-Checker)
+🔗 [Explore here!](https://github.com/alipure/Twitch-Rust-Kingdom-Checker)
 
 ### 📷 Instagram-Unbookmarker
 🗑️ **Purpose**: Automates unbookmarking all your saved posts on Instagram.  
 💻 **Tech**: JavaScript
-🔗 [Try it out!](https://github.com/yourusername/Instagram-Unbookmarker)
+🔗 [Try it out!](https://github.com/alipure/Instagram-Unbookmarker)
 
 ### 😎 Chaturbate-Emoji-Channel-Picker
 🎨 **Purpose**: A fun tool to pick and customize emoji-based channels.  
 💻 **Tech**: JavaScript
-🔗 [See more!](https://github.com/yourusername/Chaturbate-Emoji-Channel-Picker)
+🔗 [See more!](https://github.com/alipure/Chaturbate-Emoji-Channel-Picker)
 
 ### 📚 Dictionary-Java
 📖 **Purpose**: A Java-based dictionary app showcasing data structures in action.  
 💻 **Tech**: Java  
 * Important data structures and classes to look back at for dynammic programming
-🔗 [Dive in!](https://github.com/yourusername/Dictionary-Java)
+🔗 [Dive in!](https://github.com/alipure/Dictionary-Java)
 
 ### 🤖 Dank-Memer-Miner
 ⛏️ **Purpose**: A fun automation tool for mining Dank Memer resources.  
 💻 **Tech**: Java  
-🔗 [Check it out!](https://github.com/yourusername/Dank-Memer-Miner)
+🔗 [Check it out!](https://github.com/alipure/Dank-Memer-Miner)
 
 *Want to see more? Check out my public repository.
 
