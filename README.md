@@ -23,6 +23,11 @@ Here’s a glimpse of my work, showcasing automation, clean code, and a sprinkle
 💻 **Tech**: JavaScript   
 🔗 [Check it out!](https://github.com/alipure/Kick-Chat-Scraper)
 
+### 💬 Twitch-Chat-Scraper
+🔍 **Purpose**: A tool for educational purposes to scrape and analyze chat data.  
+💻 **Tech**: JavaScript   
+🔗 [Check it out!]([https://github.com/alipure/Kick-Chat-Scraper](https://github.com/Alipure/Twitch-Chat-Scraper))
+
 ### 📺 Twitch-Rust-Kingdom-Checker
 🎮 **Purpose**: A utility to check and manage Twitch-related data with a Rust-inspired twist.  
 💻 **Tech**: JavaScript
