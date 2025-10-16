@@ -8,7 +8,7 @@ Hi, I'm Ali Almusawi. I'm a developer who loves crafting efficient, scalable, an
 
 - 🔧 **Automation Enthusiast**: I thrive on creating tools that save time and boost productivity.
 - 💻 **Tech Stack**: JavaScript, Java, CSS, C++, SQL, Shell scripting.
-- 📊 **Data Structures Advocate**: I’m all about efficiency, leveraging the right structures for optimal performance.
+- 📊 **Data Structures Advocate**: I'm all about efficiency, leveraging the right structures for optimal performance.
 - 🧠 **Dynamic Programming Fan**: Solving complex problems with elegant, efficient solutions is always my thing
 - 🌱 **Always Learning**: Learning new libraries and frameworks
 
@@ -16,7 +16,7 @@ Hi, I'm Ali Almusawi. I'm a developer who loves crafting efficient, scalable, an
 
 ## 🛠️ Featured Projects
 
-Here’s a glimpse of my work, showcasing automation, clean code, and a sprinkle of creativity:
+Here's a glimpse of my work, showcasing automation, clean code, and a sprinkle of creativity:
 
 ### 💬 Kick-Chat-Scraper
 🔍 **Purpose**: A tool for educational purposes to scrape and analyze chat data.  
@@ -46,7 +46,7 @@ Here’s a glimpse of my work, showcasing automation, clean code, and a sprinkle
 ### 📚 Dictionary-Java
 📖 **Purpose**: A Java-based dictionary app showcasing data structures in action.  
 💻 **Tech**: Java  
-* Important data structures and classes to look back at for dynammic programming
+*Important data structures and classes to look back at for dynamic programming
 🔗 [Dive in!](https://github.com/alipure/Dictionary-Java)
 
 ### 🤖 Dank-Memer-Miner
@@ -55,11 +55,11 @@ Here’s a glimpse of my work, showcasing automation, clean code, and a sprinkle
 🔗 [Check it out!](https://github.com/alipure/Dank-Memer-Miner)
 
 ### 🤖 X-Twitter-Private-Message-Deleter
-⛏️ **Purpose**: An automation tool to delete all your private messages in X or Twitter !
+🗑️ **Purpose**: An automation tool to **delete all your private messages/conversations** on X/Twitter!  
 💻 **Tech**: JavaScript  
 🔗 [Check it out!](https://github.com/Alipure/X-Twitter-Private-Message-Deleter)
 
-*Want to see more? Check out my public repository.
+*Want to see more? Check out my [public repositories](https://github.com/Alipure?tab=repositories).
 
 ---
 
@@ -81,9 +81,9 @@ Here’s a glimpse of my work, showcasing automation, clean code, and a sprinkle
 ## 🎉 Fun Facts
 
 - ☕ I run on coffee and code that works.
-- 🕹️ When I’m not coding, I’m probably surfing the web.
--  📚 Favorite data structure? The Array Lists and Stack Data structure to store data ✨ 🌙
+- 🕹️ When I'm not coding, I'm probably surfing the web.
+- 📚 **Favorite data structure?** Array Lists and Stack Data structure to store data ✨ 🌙
 
 ---
 
-⭐ **Star my [repos](https://github.com/Alipure?tab=repositories) if you find them useful!** Let’s make the internet a more automated, efficient place together! 🚀
+⭐ **Star my [repos](https://github.com/Alipure?tab=repositories) if you find them useful!** Let's make the internet a more automated, efficient place together! 🚀
