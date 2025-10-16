@@ -54,7 +54,7 @@ Here's a glimpse of my work, showcasing automation, clean code, and a sprinkle o
 💻 **Tech**: Java  
 🔗 [Check it out!](https://github.com/alipure/Dank-Memer-Miner)
 
-### 🤖 X-Twitter-Private-Message-Deleter
+### 𝑿 X-Twitter-Private-Message-Deleter
 🗑️ **Purpose**: An automation tool to **delete all your private messages/conversations** on X/Twitter!  
 💻 **Tech**: JavaScript  
 🔗 [Check it out!](https://github.com/Alipure/X-Twitter-Private-Message-Deleter)
