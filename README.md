@@ -38,7 +38,7 @@ Here's a glimpse of my work, showcasing automation, clean code, and a sprinkle o
 💻 **Tech**: JavaScript
 🔗 [Try it out!](https://github.com/alipure/Instagram-Unbookmarker)
 
-### 😈 Chaturbate-Emoji-Channel-Picker
+### Emoji-Channel-Picker
 🎨 **Purpose**: A fun tool to pick and customize emoji-based channels.  
 💻 **Tech**: JavaScript
 🔗 [See more!](https://github.com/alipure/Chaturbate-Emoji-Channel-Picker)
