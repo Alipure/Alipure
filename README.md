@@ -73,7 +73,7 @@ Here's a glimpse of my work, showcasing automation, clean code, and a sprinkle o
 
 ## 📫 Get in Touch
 
-- 🐦 Follow me on [X](https://x.com/rhino_sun) for tech talk and memes.
+- 🐦 Follow me on [X](https://x.com/rhino_sun) for when I lose my mind.
 - 💬 DM me on Discord for collaborations and questions regarding the repositories that I've provided.
 
 ---
