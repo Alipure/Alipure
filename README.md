@@ -7,7 +7,7 @@ Hi, I'm Ali Almusawi. I'm a developer who loves crafting efficient, scalable, an
 ## 🌟 About Me
 
 - 🔧 **Automation Enthusiast**: I thrive on creating tools that save time and boost productivity.
-- 💻 **Tech Stack**: JavaScript, Java, CSS, C++, SQL, Shell scripting.
+- 💻 **Tech Stack**: JavaScript, Java, CSS, C++, SQL.
 - 📊 **Data Structures Advocate**: I'm all about efficiency, leveraging the right structures for optimal performance.
 - 🧠 **Dynamic Programming Fan**: Solving complex problems with elegant, efficient solutions is always my thing
 - 🌱 **Always Learning**: Learning new libraries and frameworks
